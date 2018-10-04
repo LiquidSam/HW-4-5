@@ -16,6 +16,7 @@ namespace ConsoleApp1
             for (int i = 0; i < word.Length; i++)
 
                 Console.Write(word[word.Length - i - 1]);
+
         }
     }
 }
